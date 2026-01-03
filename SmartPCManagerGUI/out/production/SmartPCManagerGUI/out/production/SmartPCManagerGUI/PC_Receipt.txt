@@ -1,0 +1,11 @@
+-------------------------------------
+           Smart PC Manager          
+-------------------------------------
+CPU:   AMD Ryzen 7 5700X (45000)
+MOBO:  Biostar B450MH (19000)
+RAM:   Corsair Vengeance LPX (6500)
+GPU:   NVIDIA GeForce RTX 4060 (110000)
+CASE:  1st Player Steampunk SP8 (36500)
+-------------------------------------
+TOTAL: Rs. 217000
+-------------------------------------
